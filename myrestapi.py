@@ -57,7 +57,7 @@ class ContainerManager:
         print('Listing containers')
 
     def create_container(data):
-        print ('Creating container using the following data: %s' % data)
+        print('Creating container using the following data: %s' % data)
 
     def delete_container(name):
         print('Killing container %s.' % name)
